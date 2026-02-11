@@ -1,2 +1,2 @@
 # Cybersecurity-Labs
-Cybersecurity labs created during my bachelors degree at SNHU.
+This repository documents my hands-on cybersecurity learning, labs, and scripting practice while completing my degree.
